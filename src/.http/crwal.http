@@ -1,0 +1,5 @@
+@base_url = http://localhost:3535
+
+
+GET {{base_url}}/crawl/48700529000144 
+Content-Type: application/json
